@@ -3,7 +3,7 @@
   "music_on": false,
   "themes": {
     "i_love_you": {
-      "title": "I Love You",
+      "title": "i love you",
       "button_bg_color": "#675C7C",
       "button_bg_color_clicked": "#F5D2A5",
       "button_pos_x": 672,
@@ -16,7 +16,7 @@
       "hour_minute_pos_y": 400,
       "second_pos_x": 380,
       "second_pos_y": 390,
-      "music_volume": 1.0,
+      "music_volume": 0.6,
       "date_font_color": "#675C7C",
       "date_font_style": "Forte",
       "date_font_size": 28,
