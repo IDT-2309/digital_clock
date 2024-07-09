@@ -277,7 +277,8 @@ def img_seq_creation(scale_factor):
 
 ### Phụ lục
 - Cấu trúc thư mục:
-.
+
+```
 ├── README.md
 ├── digital_clock.py                      : mã nguồn chính
 ├── docs                                  : chứa các tài liệu ảnh trong md
@@ -306,7 +307,7 @@ def img_seq_creation(scale_factor):
         ├── icon.png
         └── music.mp3
 
-
+```
 - chú thích về file settings_db_tkinter.json
 ### Tài liệu về Cấu trúc Dictionary trong Cấu hình Giao diện
 
